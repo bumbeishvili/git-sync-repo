@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bumbeishvili/git-sync-repo/issues"
   },
-  "homepage": "https://github.com/bumbeishvili/git-sync-repo#readme"
+  "homepage": "https://github.com/bumbeishvili/git-sync-repo#readme",
+  "dependencies": {
+    "simple-git": "^1.132.0"
+  }
 }
