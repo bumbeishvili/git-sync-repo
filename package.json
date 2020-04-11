@@ -1,0 +1,19 @@
+{
+  "name": "git-sync-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bumbeishvili/git-sync-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bumbeishvili/git-sync-repo/issues"
+  },
+  "homepage": "https://github.com/bumbeishvili/git-sync-repo#readme"
+}
