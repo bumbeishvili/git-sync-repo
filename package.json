@@ -1,5 +1,5 @@
 {
-  "name": "git-sync-repo",
+  "name": "git-sync-repo", 
   "version": "1.0.0", 
   "description": "",
   "main": "index.js",
